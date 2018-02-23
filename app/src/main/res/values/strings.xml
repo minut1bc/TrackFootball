@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Track Football</string>
+    <string name="goalsa" translatable="false">0</string>
+    <string name="goalsb" translatable="false">0</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="new_match">New Match</string>
+    <string name="reset_match">Reset Match</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="start_match">Start Match</string>
+    <string name="redb" translatable="false">0</string>
+    <string name="yellowb" translatable="false">0</string>
+    <string name="foul">Foul</string>
+    <string name="foulsb" translatable="false">0</string>
+    <string name="goal">Goal</string>
+    <string name="offside">Offside</string>
+    <string name="reda" translatable="false">0</string>
+    <string name="yellowa" translatable="false">0</string>
+    <string name="foulsa" translatable="false">0</string>
+    <string name="pause_match">Pause</string>
+    <string name="resume_match">Resume</string>
+    <string name="next_half">Next Half</string>
+    <string name="match_over">Match Over</string>
+    <string name="losing_message">lost having only 7 players on field.</string>
+    <string name="won_diff">won with a difference of</string>
+    <string name="goal_sing">goal</string>
+    <string name="goal_plur">goals</string>
+    <string name="tie">tied at</string>
+    <string name="and">and</string>
+</resources>

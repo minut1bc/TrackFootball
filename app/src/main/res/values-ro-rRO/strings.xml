@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Track Football</string>
+    <string name="team_a">Echipa A</string>
+    <string name="team_b">Echipa B</string>
+    <string name="new_match">Meci Nou</string>
+    <string name="reset_match">Reseteaza Meciul</string>
+    <string name="start_match">Incepe Meciul</string>
+    <string name="foul">Fault</string>
+    <string name="goal">Gol</string>
+    <string name="offside">Ofsaid</string>
+    <string name="pause_match">Pauza</string>
+    <string name="resume_match">Rezuma</string>
+    <string name="next_half">Urmatoarea Repriza</string>
+    <string name="match_over">Meci Terminat</string>
+    <string name="losing_message">a pierdut avand doar 7 jucatori pe teren.</string>
+    <string name="won_diff">a castigat la o diferenta de</string>
+    <string name="goal_sing">gol</string>
+    <string name="goal_plur">goluri</string>
+    <string name="tie">au egalat la</string>
+    <string name="and">si</string>
+</resources>
